@@ -1,0 +1,47 @@
+No,Daerah,Tekstur tanah,kemiringan lereng,Penggunaan Lahan,Kelembaban Udara,Tekanan Udara,Suhu Udara,Curah Hujan,kerentanan
+1,Cokrodiningratan,Agak kasar,8,Permukiman,82.325,1009.8,27.3,Sedang,Sedang 
+2,Gowongan,Agak kasar,8,Permukiman,82.325,1009.9,27.4,Sedang,Sedang 
+3,Sosromenduran,Sedang,6,Permukiman,82.325,1009.10,27.5,Tinggi,Rentan 
+4,Suryatmajan,Sedang,4,Permukiman,82.325,1009.11,27.6,Tinggi,Rentan 
+5,Prawirodirjan,Sedang,4,Permukiman,82.325,1009.12,27.7,Tinggi,Rentan 
+6,Keparakan,Agak halus,5,Permukiman,82.325,1009.13,27.8,Tinggi,Rentan 
+7,Brontokusuman,Agak halus,5,Permukiman,82.325,1009.14,27.9,Tinggi,Rentan 
+9,Bausasran,Agak kasar,4,Permukiman,81.325,1008.15,26.10,Tinggi,Rentan 
+10,Tegal Panggung,halus,3,Permukiman,82.325,1010.15,27.10,Sedang,Sedang
+11,PringgoKusuman,Kasar,6,Permukiman,82.325,1007.15,26.09,Rendah,Sedang
+12,Baciro,halus,5,Permukiman,82.325,1012.15,25.10,Tinggi,Rentan 
+13,Demangan,Kasar,8,Permukiman,82.325,1013.15,27.09,Sedang,Rentan 
+14,Klitren,Agak Kasar,9,Permukiman,82.325,1009.15,27.10,Rendah,Sedang
+15,Kotabaru,Halus ,7,Permukiman,82.325,1011.15,27.09,Tinggi,Rentan
+16,Terban,Kasar,5,Permukiman,82.325,1006.15,26.10,Sedang,Rentan
+1,Ngupasan,halus,4,Permukiman,82.325,1009.15,27.8,Tinggi,Sedang
+2,Bumijo,Agak kasar,6,Permukiman,81.325,1009.12,26.1,Rendah,Rentan 
+3,Gowongan,halus,4,Permukiman,82.325,1009.13,27.09,Sedang,Rentan 
+4,Prenggan,Kasar,5,Permukiman,82.325,1009.8,27.8,Tinggi,Rentan 
+5,Purbayan,Agak Kasar,5,Permukiman,82.325,1012.15,27.7,Tinggi,Sedang
+6,Rejowingun,Agak halus,3,Permukiman,82.325,1009.8,27.09,Tinggi,Sedang
+7,Panembahan,Kasar,5,Permukiman,82.325,1009.11,25.1,Tinggi,Rentan
+8,Kadipaten,Kasar,6,Permukiman,82.325,1009.8,26.1,Sedang,Sedang 
+9,Patehan,Halus ,7,Permukiman,82.325,1009.9,27.4,Tinggi,Rentan
+10,Gedongkiwo,Agak halus,6,Permukiman,82.325,1007.15,27.6,Tinggi,Sedang
+11,Suryodiningrat,Agak kasar,8,Permukiman,82.325,1007.15,27.09,Tinggi,Sedang 
+12,Mantrijeron,halus,6,Permukiman,82.325,1008.15,25.1,Sedang,Sedang
+13,Wirogunan,halus,4,Permukiman,81.325,1007.15,25.1,Sedang,Rentan 
+14,Ngampilan,Agak kasar,8,Permukiman,82.325,1009.9,27.5,Tinggi,Rentan 
+15,Notoprajan,Kasar,5,Permukiman,82.325,1009.12,27.3,Sedang,Rentan 
+16,Gunungketur,Agak halus,5,Permukiman,82.325,1009.11,27.3,Tinggi,Sedang
+17,Purwokinanti,Agak Kasar,7,Permukiman,82.325,1009.1,26.1,Rendah,Rentan
+18,Bener,Agak halus,4,Permukiman,82.325,1009.12,26.09,Tinggi,Rentan 
+19,Karangwaru,Kasar,8,Permukiman,81.325,1008.15,27.9,Sedang,Rentan 
+20,Kricak,Agak halus,6,Permukiman,82.325,1009.8,26.1,Tinggi,Rentan 
+21,Tegalrejo,Kasar,6,Permukiman,82.325,1006.15,27.6,Sedang,Rentan
+22,Padeyan,Agak kasar,5,Permukiman,82.325,1007.15,27.3,Tinggi,Rentan 
+23,Sorosutan,Kasar,6,Permukiman,82.325,1009.11,27.3,Tinggi,Sedang
+24,Giwangan,Agak kasar,3,Permukiman,82.325,1013.15,27.4,Rendah,Sedang 
+25,Warungboto,Sedang,4,Permukiman,82.325,1009.9,26.09,Sedang,Sedang
+26,Mujamuju,halus,5,Permukiman,82.325,1006.15,27.4,Tinggi,Rentan 
+27,Semaki,Agak halus,8,Permukiman,82.325,1009.13,27.3,Sedang,Rentan
+28,Tahunan,Sedang,5,Permukiman,82.325,1011.15,27.09,Sedang,Rentan 
+29,Pakuuncen,halus,5,Permukiman,81.325,1012.15,27.09,Sedang,Rentan 
+30,Patangpuluhan,Halus ,4,Permukiman,82.325,1008.15,27.6,Sedang,Rentan
+31,Wirobrajan,Kasar,6,Permukiman,82.325,1010.15,27.09,Rendah,Sedang
