@@ -1,3 +1,24 @@
 pandas
 scikit-learn
 flask
+
+a = {
+    'Tanggal' : '2024-01-01',
+    'Daerah' : 'Cangkringan',
+    'Aktivitas Seismik (Kejadian/hari)' : 12,
+    'Deformasi Tanah (cm)' : 3.5,
+    'Emisi SO2 (ton/hari)' : 200,
+    'Emisi CO2 (ton/hari)' : 600,
+    
+}
+
+a = {
+    'Tanggal' : "2023-01-10",
+    'Daerah' : 'Kalongan', 
+    'Kelembaban Tanah' : 25, 
+    'Suhu Udara' : 15, 
+    'Kecepatan Angin' : 20, 
+    'Curah Hujan': 1, 
+    'Vegetasi Kering' : 60,
+    
+}
