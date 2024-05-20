@@ -1,0 +1,26 @@
+Tanggal,Daerah,Kelembaban Tanah,Suhu Udara,Kecepatan Angin,Curah Hujan,Vegetasi Kering,Kebakaran Lahan
+2023-01-01,Sleman,25,32,15,0,40,Tidak
+2023-01-01,Bantul,22,31,12,0,45,Tidak
+2023-01-01,GunungKidul,18,34,20,0,50,Tidak
+2023-01-01,Kulon Progo,20,33,18,0,47,Tidak
+2023-01-01,Kota Yogyakarta,30,32,10,2,35,Tidak
+2023-01-02,Sleman,22,33,20,0,45,Tidak
+2023-01-02,Bantul,19,32,15,0,50,Tidak
+2023-01-02,GunungKidul,16,35,25,0,55,Ya
+2023-01-02,KulonProgo,21,34,22,0,48,Tidak
+2023-01-02,Kota Yogyakarta,28,31,12,3,36,Tidak
+2023-01-03,Sleman,20,34,25,0,50,Ya
+2023-01-03,Bantul,17,33,18,0,55,Ya
+2023-01-03,Gunung Kidul,15,36,30,0,60,Ya
+2023-01-03,Kulon Progo,19,32,20,0,52,Tidak
+2023-01-03,Kota Yogyakarta,27,30,15,2,38,Tidak
+2023-01-04,Sleman,18,35,30,0,55,Ya
+2023-01-04,Bantul,15,34,22,0,60,Ya
+2023-01-04,Gunung Kidul,13,37,35,0,65,Ya
+2023-01-04,Kulon Progo,17,33,25,0,58,Ya
+2023-01-04,Kota Yogyakarta,25,31,18,1,40,Tidak
+2023-01-05,Sleman,30,31,10,5,35,Tidak
+2023-01-05,Bantul,28,30,12,3,40,Tidak
+2023-01-05,Gunung Kidul,25,33,20,0,45,Tidak
+2023-01-05,Kulon Progo,27,32,18,1,42,Tidak
+2023-01-05,Kota Yogyakarta,32,29,8,4,30,Tidak
